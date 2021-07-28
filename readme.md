@@ -16,8 +16,7 @@
 		 	<img src="	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 	</p>
 	<p>
-	<h3>More Technologies</h3>
-	<hr/>		
+	<h3>More Technologies</h3>	
 </p>
 
 </html>
