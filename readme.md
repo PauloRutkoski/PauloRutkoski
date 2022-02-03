@@ -32,6 +32,7 @@
 	<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 	<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 	<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+	<img src="https://img.shields.io/badge/Kakfa-F2F2F2?style=for-the-badge&logo=Apache&logoColor=black" />
 	</h3>
 </p>
 <h1></h1>
