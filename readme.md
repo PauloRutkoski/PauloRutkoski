@@ -8,7 +8,7 @@
 	</h2>
 	<p align="center">
 		  I'm a Full Stack developer at 
-		 <a href="http://www.datachamp.com.br/"> Grendene S.A. </a>
+		 <a href="https://grendene.com.br/"> Grendene S.A. </a>
 		 <br>
 		 I'm also a student of Analysis and Systems Development at UNISINOS
 		 <br>
